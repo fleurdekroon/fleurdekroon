@@ -1,28 +1,4 @@
 {
-  members: [
-    {
-      "MemberId": "R000115",
-      "Name":"Wandelnaam 1"
-    },
-    {
-      "MemberId": "R000116",
-      "Name":"Wandelnaam 2"
-    },
-    {
-      "MemberId": "R000117",
-      "Name":"Wandelnaam 3"
-    },
-    {
-      "MemberId": "R000118",
-      "Name":"Wandelnaam 4"
-    },
-    {
-      "MemberId": "R000119",
-      "Name":"Wandelnaam 5"
-    },
-    {
-      "MemberId": "R000130",
-      "Name":"Wandelnaam 6"
-    },    
-  ]
+  "MemberId": "R000115",
+  "Name":"Wandelnaam 1"
 }
